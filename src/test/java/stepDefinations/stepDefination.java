@@ -25,7 +25,7 @@ public class stepDefination extends Base {
   @Given("^User is on NetBanking landing page$")
     public void user_is_on_netbanking_landing_page() throws Throwable {
     //code to navigate to login url
-    	System.out.println("navigated to login URL GIT");
+    	System.out.println("navigated to login dev ");
     	
     }
   
