@@ -25,7 +25,9 @@ public class stepDefination extends Base {
   @Given("^User is on NetBanking landing page$")
     public void user_is_on_netbanking_landing_page() throws Throwable {
     //code to navigate to login url
-    	System.out.println("navigated to login URL GIT updated bug fix");
+
+    	System.out.println("navigated to login dev ");
+
     	
     }
   
@@ -54,7 +56,7 @@ public class stepDefination extends Base {
 
   @Then("^check if browser is started$")
   public void check_if_browser_is_started() throws Throwable {
-	  System.out.println("Browser is started");
+	  System.out.println("Browser is started bugs");
   }
     @When("^User login into application with username and password$")
     public void user_login_into_application_with_username_and_password() throws Throwable {
